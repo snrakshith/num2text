@@ -1,0 +1,23 @@
+{
+  "name": "num2text",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "keywords": [
+    "JS_LIBRARY",
+    "NUMBERS",
+    "TEXT"
+  ],
+  "author": "RAKSHITH",
+  "license": "MIT",
+  "devDependencies": {
+    "lodash": "^4.17.15",
+    "path": "^0.12.7",
+    "webpack": "^4.39.1",
+    "webpack-cli": "^3.3.6"
+  }
+}
